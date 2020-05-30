@@ -1,0 +1,46 @@
+.conserv, .wild, .national {
+  border: 10px solid #373c3d;
+  border-radius: 100px;
+  padding: 50px;
+  margin: 20px;
+}
+
+div h4 {
+  color: white;
+}
+
+div ul {
+  color: white;
+}
+
+body {
+  background-color: #72c3db;
+}
+
+.wrap {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.conserv {
+  position: absolute;
+  background-color: #373c3d;
+  width: 250px;
+  left: 0px;
+}
+
+.wild {
+  position: absolute;
+  background-color: #373c3d;
+  width: 250px;
+  left: 450px;
+}
+
+.national {
+  background-color: #373c3d;
+  position: absolute;
+  width: 250px;
+  left: 900px;
+}
+/*# sourceMappingURL=attract.css.map */
